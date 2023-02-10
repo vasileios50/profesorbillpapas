@@ -6,12 +6,13 @@ body{
     text-decoration: none;
 }
 span{
-    color: coral;
+    color: rgb(255, 138, 0);
 }
-.card{
+.card, .alert{
     background-color: rgb(255, 138, 0);
     border-color: transparent;
-    border-radius: 12px;
+    border-radius: 10px;
+    color: white;
 }
 .card-title{
     color: white;
