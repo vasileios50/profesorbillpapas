@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(25, 30, 47);
+    color: white;
+    font-family: "comfortaa";
+    font-size: 15px;
+    text-decoration: none;
+}
+span{
+    color: coral;
+}
+.card{
+    background-color: rgb(255, 138, 0);
+    border-color: transparent;
+    border-radius: 12px;
+}
+.card-title{
+    color: white;
+}
