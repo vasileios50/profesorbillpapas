@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(25, 30, 47);
+    background: rgb(44,52,83);
+    background: linear-gradient(90deg, rgba(44,52,83,1) 0%, rgba(14,17,26,1) 100%);
     color: white;
     font-family: "comfortaa";
     font-size: 15px;
@@ -9,7 +10,7 @@ span{
     color: rgb(255, 138, 0);
 }
 .card, .alert{
-    background-color: rgb(255, 138, 0);
+    background-color: transparent;
     border-color: transparent;
     border-radius: 10px;
     color: white;
