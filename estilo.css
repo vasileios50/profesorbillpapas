@@ -1,0 +1,58 @@
+body {
+    background-color: white;
+    color: gray;
+    font-family: 'Comfortaa';
+    font-size: 15px;
+    text-decoration: none;
+}
+
+span {
+    color: coral;
+    font-family: 'Kaushan Script';
+}
+
+.jumbotron {
+    background: url(portada.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: 'Kaushan Script';
+    color: white;
+}
+
+.lead {
+    color: white;
+}
+
+.jumbotron .btn-warning {
+    border-radius: 25px;
+}
+
+.jumbotron .btn-warning:hover {
+    border-radius: 25px;
+}
+
+.mb-0 {
+    color: black;
+}
+
+.card {
+    border-color: transparent;
+}
+
+.card img {
+    border-radius: 25px;
+}
+
+.card-img-topx {
+    width: 150px;
+    height: 150px;
+}
+
+.xpress {
+    border-radius: 50px;
+}
+
